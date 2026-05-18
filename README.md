@@ -1,7 +1,7 @@
 ### Categorical_Data_Analysis-STAT-4104
 Assignment on
 Categorical Data Analysis Using Python
-Course Code: STAT-4104
+**Course Code: STAT-4104
 
 ### 🎓 Prepared By:
 * **Student Name:** Md Muhibul Islam
